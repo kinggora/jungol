@@ -1,4 +1,4 @@
-package control_statement;
+package conditional_statement;
 
 import java.io.BufferedReader;
 import java.io.IOException;
